@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 255, 143);
+    font-family: Helvetica, sans-serif;
+    margin:opx;
+    padding:0px;
+    }
+
+    h1, p {
+        color: red;
+    }
+
+    #about-heading{
+        color:blue;
+    }
+
+    .educ-heading{
+        color:black;
+    }

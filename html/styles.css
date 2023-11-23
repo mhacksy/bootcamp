@@ -1,0 +1,136 @@
+body{
+    font-family: 'Comic Sans MS','cursive';
+    margin: 0px;
+    background-color: rgb(255, 157, 157);
+    background-image:  url(img/background.webp);
+    height: 100vh;
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0px 20px;
+}
+
+.overlay{
+    background-color: rgba(0, 0, 0, 0.103);
+}
+
+nav{
+    background-color: rgb(70, 130, 180);
+    color:rgb(0, 0, 139) ;
+    width: 100%;
+    text-align: justify;
+    padding: 10px 30px 10px 30px;
+}
+
+.nav_content{
+    padding-left:10%;
+    font-size:20px;
+    
+}
+
+.choir{
+    width:250px
+}
+
+#choir-image{
+    clip-path: circle();
+    width:100%;
+}
+
+.con-1{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#church-banner{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.con-2{
+    text-align: center;
+}
+
+.h1-1{
+    color: rgb(70, 130, 180);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.con-3{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#pastor-pic{
+    width: 350px;
+    margin-right: 20px;
+}
+
+.con3-h2-1{
+    font-size: 200%; 
+    color: rgb(70, 130, 180);
+}
+
+.con3-p-1{
+    font-size: 130%;
+}
+
+.con3-a-1{
+    font-size:30px;
+    color: blue;
+}
+
+.con3-a-1:link{
+    color: blue;
+}
+
+.con3-a-1:visited{
+    color: orange
+}
+
+.con3-a-1:hover{
+    color: magenta;
+}
+
+.con3-a-1:active{
+    color:lime;
+}
+
+.con-4{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.cross{
+    width: 120px;
+    margin: 60px;
+}
+
+tr:nth-child(even){
+    background-color:white;
+}
+
+tr:nth-child(odd){
+    background-color:gray;
+}
+
+table, th ,td {
+    border: dotted;
+    border-collapse: collapse;
+}
+
+table {
+    margin: 60px;
+}
+    
+
+#footer{
+        text-align: center;
+        margin-top: 50px;
+        font-size: 75%;
+        color: rgb(160, 160, 160);
+}

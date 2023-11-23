@@ -1,0 +1,38 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-G5LI0B2
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-50-88-D9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek 8188GU Wireless LAN 802.11n USB NIC
+   Physical Address. . . . . . . . . : E0-E1-A9-9F-73-46
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::83e8:c102:77f5:c8d6%2(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.7(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Friday, November 10, 2023 6:01:26 PM
+   Lease Expires . . . . . . . . . . : Saturday, November 11, 2023 6:01:25 PM
+   Default Gateway . . . . . . . . . : fe80::1%2
+                                       192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 417391017
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-88-2E-A5-44-8A-5B-50-88-D9
+   DNS Servers . . . . . . . . . . . : fe80::1%2
+                                       192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
